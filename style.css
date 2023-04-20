@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    padding: 2%;
+    justify-content: space-evenly;
+}
+#video {
+    width: 800px;
+    height: auto;;
+}
